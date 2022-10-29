@@ -3,5 +3,5 @@
 "use strict";
 Myname();
 function Myname(){
-    name= 'Al Amin';
+    name= 'Md Al Amin';
 }
