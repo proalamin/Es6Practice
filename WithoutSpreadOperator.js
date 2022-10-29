@@ -1,6 +1,6 @@
 let poorCountry = ['bangladesh', 'Nepal', 'Srilanka'];
 
-let richCountry = [ 'Us', 'Canada', 'Singapore'];
+let richCountry = [ 'Us', 'Canada', 'Singapore', 'Italy'];
 
 richCountry.push(poorCountry);
 
