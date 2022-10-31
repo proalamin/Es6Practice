@@ -1,5 +1,7 @@
 var billGates = {shirt: true, shirtColor:"OffWhite", smile: true, sunglass: true, sunglassColor: "White Glass"};
 
+console.log(billGates['shirtColor'])
+
 var billGatesPro={
     shirt:{
         color:"offwhite",
@@ -14,3 +16,4 @@ var billGatesPro={
     }
 
 }
+console.log(billGatesPro["swatter"]["price"])
