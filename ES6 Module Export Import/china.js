@@ -16,4 +16,5 @@ class China {
         alert("Toys Imported from China");
     }
 }
-export{China};
+// export{China};
+export default China;

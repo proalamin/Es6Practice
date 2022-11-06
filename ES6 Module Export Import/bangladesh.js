@@ -4,8 +4,7 @@
 // Cosmetics();
 // console.log(laptop);
 
-import { China } from "./china.js";
+import Alamin from "./china.js";
 
-let obj= new China();
-
+let obj = new Alamin();
 obj.Toys();
