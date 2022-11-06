@@ -1,3 +1,5 @@
-import { laptop } from "./china.js";
+import { laptop, MobilePhn,Cosmetics } from "./china.js";
 
+MobilePhn();
+Cosmetics();
 console.log(laptop);

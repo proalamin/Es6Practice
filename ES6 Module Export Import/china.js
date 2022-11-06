@@ -1,2 +1,15 @@
 const laptop="Hp, Asus";
-export {laptop};
+
+function MobilePhn(){
+    console.log("Mobile Phone from China")
+}
+
+function Cosmetics(){
+    console.log("Cosmetics from China")
+}
+
+
+
+
+
+export {laptop, MobilePhn, Cosmetics};
